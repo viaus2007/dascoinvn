@@ -1,0 +1,20 @@
+- name: Tran Anh Nguyen
+  id: Team 01
+  position: Director
+  description: "He is an accomplished, innovative and entrepreneurial technologist with over 20 years of senior
+  management experience in information technology, marketing and operations."
+  image: "/assets/images/person01.png"
+
+- name: Dzung Chu
+  id: Team 02
+  position: Event Manager
+  description: "She is an accomplished, innovative and entrepreneurial technologist with over 20 years of senior
+  management experience in information technology, marketing and operations."
+  image: "/assets/images/person02.png"
+
+- name: Dieu Binh Nguyen
+  id: Team 03
+  position: Account Manager
+  description: "She is an accomplished, innovative and entrepreneurial technologist with over 20 years of senior
+  management experience in information technology, marketing and operations."
+  image: "/assets/images/person02.png"

@@ -1,0 +1,23 @@
+- name: First Confernce
+  id: Event 01
+  description: "First conference in Hanoi, Vietnam ......."
+  url: google.com
+  image: "/assets/images/events/event01.png"
+
+- name: Mentoring Program
+  id: Event 02
+  description: "First conference in Hanoi, Vietnam ......."
+  url: google.com
+  image: "/assets/images/events/event02.png"
+
+- name: Local Meetings
+  id: Event 03
+  description: "First conference in Hanoi, Vietnam ......."
+  url: google.com
+  image: "/assets/images/events/event03.png"
+
+- name: DasCoin Vietnam showroom
+  id: Event 04
+  description: "First conference in Hanoi, Vietnam ......."
+  url: google.com
+  image: "/assets/images/events/event04.png"
