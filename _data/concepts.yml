@@ -1,0 +1,27 @@
+- name: BitCoin
+  id: bitcoin
+  alignment:
+  description: "Bitcoin description"
+  url:
+  image: "/assets/images/bitcoin.png"
+
+- name: BlockChain
+  id: blockchain
+  alignment: w3-right
+  description: "BlockChain description"
+  url:
+  image: "/assets/images/blockchain.png"
+
+- name: DasCoin
+  id: DasCoin
+  alignment:
+  description: "DasCoin description"
+  url:
+  image: "/assets/images/dascoinlogo.png"
+
+- name: NetLeaders
+  id: NetLeaders
+  alignment: w3-right
+  description: "NetLeaders description"
+  url:
+  image: "/assets/images/netleaders.png"

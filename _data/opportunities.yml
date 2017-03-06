@@ -1,0 +1,23 @@
+- name: Global Transactions
+  id: opportunity 01
+  description: "Easy to transfer money ...."
+  url: google.com
+  image: "/assets/images/transactions.png"
+
+- name: No Transaction Cost
+  id: opportunity 02
+  description: "Easy to transfer money ...."
+  url: google.com
+  image: "/assets/images/nofee.png"
+
+- name: Advantage 01
+  id: opportunity 03
+  description: "Easy to transfer money ...."
+  url: google.com
+  image: "/assets/images/nofee.png"
+
+- name: Advantage 02
+  id: opportunity 04
+  description: "Easy to transfer money ...."
+  url: google.com
+  image: "/assets/images/transactions.png"
